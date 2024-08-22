@@ -1,0 +1,136 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: fit-content;
+    border: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.image {
+    width: 300px;
+    height: 200px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+}
+
+.real-price {
+    padding: 10px;
+    margin-right: 4px;
+}
+
+
+.price-credit {
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+.title {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.city {
+    padding: 10px;
+}
+
+.description {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.box {
+    display: flex;
+
+}
+
+.date {
+    margin-right: 50px;
+    margin-left: 5px;
+}
+
+.view {
+    width: 20px;
+    height: 20px;
+
+}
+
+.icons {
+    display: flex;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+    margin-left: 85px;
+
+}
+
+.block2 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: fit-content;
+    border: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.box1 {
+    display: flex
+}
+
+.icons1 {
+    width: 20px;
+    height: 20px;
+   margin-left: 95px;
+}
+
+
+
+
+
+.block3 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: fit-content;
+    border: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+
+.box2  {
+    display: flex
+}
+
+.icons2 {
+    width: 20px;
+    height: 20px;
+   margin-left: 125px;
+}
+
+
+
+
+
+
